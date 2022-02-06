@@ -2,19 +2,15 @@
 
 My name is Peter, I'm a Full Stack (Open Source) developer, managing different insfrastructure/systems and sometimes other people.
 I'm happy to devote my time to web development from pure Server-Side-Rendering (SSR) applications to Single-Page-Applications (SPA) with possible SSR in addition.
-I also like to write standalone-applications & -services, which are often served via the Command-Line-Interface (CLI), Web-Server with Interpreter, Websockets (WS) or an other way.
-
-In my free time i like to go jogging, play Volleyball, do weight training or riding bike.
+I also like to write standalone-applications & -services, which are often served via the Command-Line-Interface (CLI), Web-Server with Interpreter, Websockets (WS) or an other way. In my free time i like to go jogging, play Volleyball, do weight training or riding bike.
 
 🔭 I’m currently working on many projects 🙈, so feel free to take a look.
 
 📫 If you like my work and want to support me, please do this via [PayPal](paypal.me/peterplaczek).
 
 
-#### Development
+#### Development & Deployment
 ![IDEA](https://badges.aleen42.com/src/idea.svg)
-
-#### Deployment
 ![Docker](https://badges.aleen42.com/src/docker.svg)
 
 #### Javascript & Typescript
