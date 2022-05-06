@@ -6,7 +6,7 @@ I also like to write standalone-applications & -services, which are often served
 
 🔭 I’m currently working on many projects 🙈, so feel free to take a look.
 
-📫 If you like my work and want to support me, please do this via [PayPal](paypal.me/peterplaczek).
+📫 If you like my work and want to support me, please do this via [PayPal](https://paypal.me/peterplaczek).
 
 
 #### Development & Deployment
