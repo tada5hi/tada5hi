@@ -1,55 +1,48 @@
-### Hi there 🔥	
+<div align="center">
 
-My name is Peter, I'm a Full Stack (Open Source) developer, managing different insfrastructure/systems and sometimes other people.
-I'm happy to devote my time to web development from pure Server-Side-Rendering (SSR) applications to Single-Page-Applications (SPA) with possible SSR in addition.
-I also like to write standalone-applications & -services, which are often served via the Command-Line-Interface (CLI), Web-Server with Interpreter, Websockets (WS) or an other way. In my free time i like to go jogging, play Volleyball, do weight training or riding bike.
+# Hi, I'm Peter 👋
 
-🔭 I’m currently working on many projects 🙈, so feel free to take a look.
+**Fullstack engineer & researcher — building open-source data infrastructure<br>for personalized medicine at the University Hospital Tübingen.**
 
-📫 If you like my work and want to support me, please do this via [PayPal](https://paypal.me/peterplaczek).
+[🌐 placzek.dev](https://placzek.dev) ·
+[💼 LinkedIn](https://de.linkedin.com/in/peter-placzek-047a74210) ·
+[🆔 ORCID](https://orcid.org/0009-0004-1237-105X) ·
+[❤️ Sponsor](https://paypal.me/peterplaczek)
 
+</div>
 
-#### Development & Deployment
-![IDEA](https://badges.aleen42.com/src/idea.svg)
-![Docker](https://badges.aleen42.com/src/docker.svg)
+Open source is the core of my work: I maintain **240+ npm packages** — downloaded more than
+**30 million times a month** — written in TypeScript end-to-end, from HTTP frameworks and
+auth servers to Vue component systems.
 
-#### Javascript & Typescript
-![Node](https://aleen42.github.io/badges/src/node.svg)
-![Npm](https://badges.aleen42.com/src/npm.svg)
-![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
-![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
-![Eslint](https://badges.aleen42.com/src/eslint.svg)
-![Webpack](https://badges.aleen42.com/src/webpack.svg)
-![Jest](https://badges.aleen42.com/src/jest_1.svg)
-![Vue](https://aleen42.github.io/badges/src/vue.svg)
-![Angular](https://aleen42.github.io/badges/src/angular.svg)
+## 🧩 Ecosystem
 
-#### Other Languages
-![PHP](https://img.shields.io/static/v1?logo=php&message=PHP&color=grey&label=)
-![Java](https://img.shields.io/static/v1?logo=java&message=Java&color=grey&label=)
-![C++](https://img.shields.io/static/v1?logo=c%2B%2B&message=C%2B%2B&color=grey&label=)
-![Python](https://img.shields.io/static/v1?logo=python&message=Python&color=grey&label=)
-![CSS](https://img.shields.io/static/v1?logo=css3&message=CSS&color=grey&label=)
-![Bash](https://img.shields.io/static/v1?logo=gnu-bash&message=Bash&color=grey&label=)
-![HTML5](https://img.shields.io/static/v1?logo=html5&message=HTML5&color=grey&label=)
+| | Family | Packages | What it does |
+|---|--------|----------|--------------|
+| 🛡 | **Identity & Access** | [authup](https://github.com/authup/authup) | OAuth2 / OpenID Connect server with robots & fine-grained permissions for distributed infrastructures |
+| 🎨 | **UI Components** | [vuecs](https://github.com/tada5hi/vuecs) | Themeable Vue 3 component system — design tokens, dark mode, Tailwind / Bootstrap / Bulma themes |
+| 🌍 | **Internationalization** | [ilingo](https://github.com/tada5hi/ilingo) | Lightweight translation framework with catalogs, plurals & Vue bindings |
+| ✅ | **Validation** | [validup](https://github.com/tada5hi/validup) | Composable validation containers with Vue & Zod adapters |
+| 🔌 | **HTTP & APIs** | [routup](https://github.com/tada5hi/routup) · [hapic](https://github.com/tada5hi/hapic) · [trapi](https://github.com/tada5hi/trapi) · [rapiq](https://github.com/tada5hi/rapiq) | Routing framework (18 plugins), fetch client, OpenAPI generation & API query handling |
+| 🗄 | **Data & Messaging** | [typeorm-extension](https://github.com/tada5hi/typeorm-extension) · [redis-extension](https://github.com/tada5hi/redis-extension) · [amqp-extension](https://github.com/tada5hi/amqp-extension) | Database seeding & migrations (~1M downloads/month), Redis & RabbitMQ integrations |
+| 🧰 | **Tooling & Utilities** | [smob](https://github.com/tada5hi/smob) · [ebec](https://github.com/tada5hi/ebec) · [locter](https://github.com/tada5hi/locter) · [monoship](https://github.com/tada5hi/monoship) · [docken](https://github.com/tada5hi/docken) | Merging (~28M downloads/month), error classes, module loading, workspace publishing, Docker tooling |
 
+## 🔬 Research
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tada5hi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=tada5hi&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
-</p>
+Medical informatics at the University of Tübingen — privacy-preserving, federated analysis of distributed health data:
 
-<!--
-**tada5hi/tada5hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[PrivateAIM](https://github.com/PrivateAIM)** — technical lead (hub, infrastructure & cloud; Kubernetes deployments managed via GitOps/Flux)
+- **[DNPM:DIP](https://github.com/dnpm-dip/portal)** — data integration platform of the German Network for Personalized Medicine
+- **[Personal Health Train](https://github.com/PHT-Medic)** — published in [*Scientific Data* (2024)](https://doi.org/10.1038/s41597-024-03450-6) and on [arXiv (2022)](https://doi.org/10.48550/ARXIV.2212.03481)
 
-Here are some ideas to get you started:
+## 🛠 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript · Node.js · Vue 3 · Nuxt · Tailwind CSS · TypeORM · PostgreSQL · Redis · RabbitMQ ·
+Docker · Kubernetes & Helm · GitOps (Flux) · GitHub Actions · Vitest
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tada5hi&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=tada5hi&title_color=fff&text_color=fff&icon_color=6366f1&bg_color=0D1117&show_icons=true" height="160px" alt="GitHub stats" />
+
+</div>
