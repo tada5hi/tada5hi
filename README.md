@@ -5,14 +5,15 @@
 ## Peter Placzek
 
 **Fullstack engineer & researcher**<br/>
-<sub>open-source data infrastructure for personalized medicine · University Hospital Tübingen</sub>
+<sub>open-source data infrastructure for personalized medicine · University Hospital Tübingen</sub><br/>
+<sub><i>federated analytics · privacy & security · distributed systems</i></sub>
 
 <a href="https://placzek.dev"><img src="https://img.shields.io/badge/placzek.dev-6366f1?style=flat-square&logoColor=white" alt="Website" /></a>
 <a href="https://de.linkedin.com/in/peter-placzek-047a74210"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=flat-square" alt="LinkedIn" /></a>
 <a href="https://orcid.org/0009-0004-1237-105X"><img src="https://img.shields.io/badge/ORCID-0ea5e9?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://paypal.me/peterplaczek"><img src="https://img.shields.io/badge/Sponsor-18181b?style=flat-square&logo=paypal&logoColor=white" alt="Sponsor" /></a>
 
-<sub>240+ npm packages · 30M+ downloads a month · TypeScript end-to-end</sub>
+<sub>240+ npm packages · ~4M downloads a month (35M+ incl. smob) · TypeScript end-to-end</sub>
 
 </div>
 
@@ -27,15 +28,17 @@
 - ✅ [**validup**](https://github.com/tada5hi/validup) · [**ilingo**](https://github.com/tada5hi/ilingo) — composable validation & lightweight i18n, with Vue bindings for both
 - 🗄 [**typeorm-extension**](https://github.com/tada5hi/typeorm-extension) — database seeding & migrations · ~1M downloads/month
 - 🔐 [**vouchly**](https://github.com/tada5hi/vouchly) — verify OAuth2 & OIDC tokens against trusted issuers, on any Web runtime
-- ⚙️ [**hubwire**](https://github.com/tada5hi/hubwire) · [**eldin**](https://github.com/tada5hi/eldin) — lifecycle components with a message bus & type-safe dependency injection
+- ⚙️ [**hubwire**](https://github.com/tada5hi/hubwire) · [**eldin**](https://github.com/tada5hi/eldin) · [**orkos**](https://github.com/tada5hi/orkos) — lifecycle components with a message bus, type-safe dependency injection & modular app orchestration
 - 🌐 [**hapic**](https://github.com/tada5hi/hapic) · [**trapi**](https://github.com/tada5hi/trapi) · [**rapiq**](https://github.com/tada5hi/rapiq) — HTTP clients, OpenAPI generation & API query handling
-- 🧰 [**smob**](https://github.com/tada5hi/smob) · [**ebec**](https://github.com/tada5hi/ebec) · [**locter**](https://github.com/tada5hi/locter) — zero-dependency utilities powering most of those 30M monthly installs
+- 🧰 [**smob**](https://github.com/tada5hi/smob) · [**ebec**](https://github.com/tada5hi/ebec) · [**locter**](https://github.com/tada5hi/locter) — zero-dependency utilities · smob ships inside `@rollup/plugin-terser`, ~30M installs/month
 
 ### 🔬 Research
 
-- 🤝 [**PrivateAIM**](https://github.com/PrivateAIM) — technical lead: hub, infrastructure & cloud, Kubernetes via GitOps (Flux)
-- 🧬 [**DNPM:DIP**](https://github.com/dnpm-dip/portal) — data integration platform of the German Network for Personalized Medicine
+- 🤝 [**PrivateAIM**](https://github.com/PrivateAIM) — technical lead of FLAME (*Federated Learning and Analyses in MEdicine*), a platform of the Medical Informatics Initiative: 17 partner institutions, built for the MII's 41 data integration centres. The analysis travels to the hospital, raw data stays on site · hub, infrastructure & Kubernetes via GitOps (Flux)
+- 🧬 [**DNPM:DIP**](https://github.com/dnpm-dip/portal) — data integration platform of the German Network for Personalized Medicine: federated queries across ~26–28 university hospital centres, clinical data node for genomDE
 - 🚂 [**Personal Health Train**](https://github.com/PHT-Medic) — [*Scientific Data*, 2024](https://doi.org/10.1038/s41597-024-03450-6) · [arXiv, 2022](https://doi.org/10.48550/ARXIV.2212.03481)
+
+<sub>Both platforms run on the same stack: mostly open-source libraries I maintain in my own free time.</sub>
 
 ### 🛠 Stack
 
