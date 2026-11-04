@@ -20,11 +20,14 @@
 
 ### 🧩 Building
 
+- 🤖 [**chamvi**](https://github.com/chamvi/chamvi) — self-hosted, trigger-driven AI agents on the Vercel AI SDK: durable runs, step checkpoints, human-in-the-loop approvals
 - 🛡 [**authup**](https://github.com/authup/authup) — identity & access management: OAuth2, OpenID Connect, robots & fine-grained permissions
 - 🎨 [**vuecs**](https://github.com/tada5hi/vuecs) — themeable Vue 3 component system: design tokens, dark mode, Tailwind / Bootstrap / Bulma themes
 - 🔌 [**routup**](https://github.com/tada5hi/routup) — minimal HTTP framework with 18 plugins: CORS, swagger, rate limiting, Prometheus
 - ✅ [**validup**](https://github.com/tada5hi/validup) · [**ilingo**](https://github.com/tada5hi/ilingo) — composable validation & lightweight i18n, with Vue bindings for both
 - 🗄 [**typeorm-extension**](https://github.com/tada5hi/typeorm-extension) — database seeding & migrations · ~1M downloads/month
+- 🔐 [**vouchly**](https://github.com/tada5hi/vouchly) — verify OAuth2 & OIDC tokens against trusted issuers, on any Web runtime
+- ⚙️ [**hubwire**](https://github.com/tada5hi/hubwire) · [**eldin**](https://github.com/tada5hi/eldin) — lifecycle components with a message bus & type-safe dependency injection
 - 🌐 [**hapic**](https://github.com/tada5hi/hapic) · [**trapi**](https://github.com/tada5hi/trapi) · [**rapiq**](https://github.com/tada5hi/rapiq) — HTTP clients, OpenAPI generation & API query handling
 - 🧰 [**smob**](https://github.com/tada5hi/smob) · [**ebec**](https://github.com/tada5hi/ebec) · [**locter**](https://github.com/tada5hi/locter) — zero-dependency utilities powering most of those 30M monthly installs
 
