@@ -13,7 +13,7 @@
 <a href="https://orcid.org/0009-0004-1237-105X"><img src="https://img.shields.io/badge/ORCID-0ea5e9?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://paypal.me/peterplaczek"><img src="https://img.shields.io/badge/Sponsor-18181b?style=flat-square&logo=paypal&logoColor=white" alt="Sponsor" /></a>
 
-<sub>240+ npm packages · ~4M downloads a month (35M+ incl. smob) · TypeScript end-to-end</sub>
+<sub>240+ npm packages · 35M+ downloads a month · TypeScript end-to-end</sub>
 
 </div>
 
